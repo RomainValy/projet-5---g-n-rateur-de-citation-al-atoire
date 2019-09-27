@@ -1,0 +1,16 @@
+h1{ 
+    padding-top: 15%;
+    font-size: 4.7rem;
+    color: rgb(48, 7, 82);
+    text-shadow: 1px 1px 2px grey;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-size: 3rem;
+    color: rgb(48, 7, 82);
+    text-shadow: 1px 1px 2px grey;
+    display: flex;
+    justify-content: center;  
+}
